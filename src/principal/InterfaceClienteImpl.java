@@ -1,3 +1,5 @@
+package principal;
+
 import interfaces.InterfaceCliente;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
